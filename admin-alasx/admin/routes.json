@@ -1,0 +1,6 @@
+{
+    "admin.app.example": {
+      "component": "adminAlas",
+      "path": "/admin/app/alasx"
+    }
+}
